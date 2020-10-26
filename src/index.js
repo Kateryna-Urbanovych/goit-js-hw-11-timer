@@ -1,4 +1,4 @@
-import './css/styles.css';
+// import './css/styles.css';
 
 class CountdownTimer {
     constructor({ selector, targetDate }) {
